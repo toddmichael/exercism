@@ -5,7 +5,7 @@ module BookKeeping
   VERSION = 2
 end
 
-# something
+# problem main
 class Raindrops
   # factor-to-sound lookup table
   @table = {
